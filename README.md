@@ -18,5 +18,10 @@ Construction of an interactive dashboard on the daily and monthly rainfall of Br
 
 The dashboard.py file creates the interactive dashboard.
 
-To execute:
-    python dashboard.py
+Execute dashboard.py to see the dashboard.
+
+<img width="1055" alt="image" src="https://github.com/user-attachments/assets/3690ad7a-7ce4-4656-b9ce-7c86be6eeebf" />
+
+<img width="1055" alt="image" src="https://github.com/user-attachments/assets/c8927e9a-dfc4-4753-a92a-b1d675808f0b" />
+
+<img width="1055" alt="image" src="https://github.com/user-attachments/assets/d79f03e1-2e4a-41c6-add1-48b653c8bc0c" />
